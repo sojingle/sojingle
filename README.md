@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Jin</h1>
 
-<h3 align="center">I am a Programmer, with 12+ years of work experience in iOS and Android App development.</h3>
+<h3 align="center">With over 15 years in software engineering, I specialize in iOS and Android development, leading teams and architecting complex mobile projects. </h3>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/jin-xu-programmer/" target="_blank">
