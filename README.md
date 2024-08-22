@@ -1,6 +1,13 @@
 <h1 align="center"> Hi! I'm Jin</h1>
 
-<h3 align="center">With over 15 years in software engineering, I specialize in iOS and Android development, leading teams and architecting complex mobile projects. </h3>
+<h3 align="center">Experienced Mobile Engineering Leader with over 12 years in developing high-performance iOS and Android applications.</h3>
+<ul>
+  <li>Mobile app development (iOS & Android)</li>
+  <li>Team leadership and Agile project management</li>
+  <li>Performance optimization and scalability</li>
+  <li>CI/CD implementation and test automation</li>
+  <li>Cross-platform framework development</li>
+</ul>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/jin-xu-programmer/" target="_blank">
@@ -11,8 +18,6 @@
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
 </p>
-
-I'm currently open for hire.
 
 <h3>Skills</h3>
 <h4>I have the working knowledge of:</h4>
